@@ -1,0 +1,20 @@
+.aa {color: cornflowerblue; background-color: rgb(164, 76, 61);}
+.dk {color: red;background-color: aqua;}
+#abd {
+    color: blueviolet;
+    background-color: cyan;
+}
+
+.asd {
+    color: red;
+    background-color: chartreuse;
+}
+
+h5 {
+    color: crimson;
+    background-color: blue;
+}
+p {border: 1px; color:  hsla(0, 63%, 45%, 0.773);}
+
+body {background-color: #FF8C00
+    ; opacity: 0.8;}
